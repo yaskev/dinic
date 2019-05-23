@@ -1,3 +1,0 @@
-C:/Users/Alexander/Desktop/Projects/Assignment7/MaxFlowMinCut/cmake-build-debug/CMakeFiles/MaxFlowMinCut.dir
-C:/Users/Alexander/Desktop/Projects/Assignment7/MaxFlowMinCut/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Alexander/Desktop/Projects/Assignment7/MaxFlowMinCut/cmake-build-debug/CMakeFiles/rebuild_cache.dir
